@@ -1,0 +1,84 @@
+﻿  trcKernelPort.c
+  trcSnapshotRecorder.c
+  croutine.c
+  event_groups.c
+  heap_5.c
+  stream_buffer.c
+  timers.c
+  AbortDelay.c
+  BlockQ.c
+  blocktim.c
+  countsem.c
+  death.c
+  dynamic.c
+  EventGroupsDemo.c
+  flop.c
+  GenQTest.c
+  integer.c
+  IntSemTest.c
+  MessageBufferAMP.c
+  PollQ.c
+  Generating Code...
+  Compiling...
+  QPeek.c
+  QueueOverwrite.c
+  QueueSet.c
+  QueueSetPolling.c
+  recmutex.c
+  semtest.c
+  StaticAllocation.c
+  MessageBufferDemo.c
+  StreamBufferDemo.c
+  StreamBufferInterrupt.c
+  TaskNotify.c
+  TaskNotifyArray.c
+  timerdemo.c
+  main.c
+  list.c
+  port.c
+  queue.c
+  tasks.c
+  main_blinky.c
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(275,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(276,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(276,49): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(276,45): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(276,69): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(277,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(277,53): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(277,49): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(277,73): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(278,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(278,55): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(278,51): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(278,75): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(279,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(279,51): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(279,47): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(279,71): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(280,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(280,49): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(280,45): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(280,69): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(281,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(281,53): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(281,49): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(281,73): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(282,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(282,53): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(282,49): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(282,73): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(283,24): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(283,51): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(283,47): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(283,71): warning C4020: 'xTaskCreate': too many actual parameters
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(284,23): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(284,49): warning C4047: 'function': 'UBaseType_t' differs in levels of indirection from 'void *'
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(284,45): warning C4024: 'xTaskCreate': different types for formal and actual parameter 5
+C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(284,69): warning C4020: 'xTaskCreate': too many actual parameters
+  main_full.c
+  Generating Code...
+  Compiling...
+  Run-time-stats-utils.c
+  Generating Code...
+  WIN32.vcxproj -> C:\Users\Mr.Lucky\Downloads\FreeRTOSv202012.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
